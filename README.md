@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">I am a Full Stack Web Developer.</h3>
+<br>
+<img align="right" src = "https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" alt = "Gif*">
 
 - 🔭 I’m currently working on **Student**
 
